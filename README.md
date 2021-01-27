@@ -13,9 +13,12 @@ RDP Tool that lets you use a Linux server as a jumpbox via a SSH Tunnel. I creat
 2) The SSH fingerprint variable needs to be identified and set in the batch script
 3) The Jumpbox IP or FQDN variable needs to be set in the batch script.
 4) Create history folder in the same working directory as the batch script for quick execution.
+<img src="first.PNG">
 
 # Using the Tool
 
 1) Launch the rdp-jump.bat
 2) Enter the Destination Host that you want to jump to and press enter.
 3) Wait for the connection to be established for RDP and login.
+
+<img src="host.PNG">
